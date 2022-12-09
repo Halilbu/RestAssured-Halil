@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9269c9be-ff4f-4a23-918b-8a33b489baa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/HrGetRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanGetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNegativeGetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartanTestsWithParameters.java" afterDir="false" />
+    <list default="true" id="9269c9be-ff4f-4a23-918b-8a33b489baa8" name="Changes" comment="Day3 update">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDSApiTestsWithParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,24 +44,8 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.SpartanTestsWithParameters.test4">
-    <configuration name="SpartanNegativeGetTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9-RestAssured-Halil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day2" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day2.SpartanNegativeGetTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanTestsWithParameters.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ORDSApiTestsWithParameters.test2">
+    <configuration name="ORDSApiTestsWithParameters.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-RestAssured-Halil" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +54,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanTestsWithParameters" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.ORDSApiTestsWithParameters" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ORDSApiTestsWithParameters.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-RestAssured-Halil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.ORDSApiTestsWithParameters" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ORDSApiTestsWithParameters.test2" />
+        <item itemvalue="JUnit.ORDSApiTestsWithParameters.test1" />
         <item itemvalue="JUnit.SpartanTestsWithParameters.test4" />
         <item itemvalue="JUnit.SpartanTestsWithParameters.test3" />
         <item itemvalue="JUnit.SpartanTestsWithParameters.test2" />
-        <item itemvalue="JUnit.SpartanTestsWithParameters.test1" />
-        <item itemvalue="JUnit.SpartanNegativeGetTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -153,8 +144,16 @@
       <option name="presentableId" value="Default" />
       <updated>1669670707238</updated>
       <workItem from="1669670709605" duration="57000" />
-      <workItem from="1669670776784" duration="18119000" />
+      <workItem from="1669670776784" duration="21816000" />
     </task>
+    <task id="LOCAL-00001" summary="Day3 update">
+      <created>1670583200127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670583200127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day3 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day3 update" />
   </component>
 </project>
