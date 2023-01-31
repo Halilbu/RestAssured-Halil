@@ -5,8 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9269c9be-ff4f-4a23-918b-8a33b489baa8" name="Changes" comment="Day3 update">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDSApiTestsWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/FormulaOneXmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/GovXmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/JsonSchemaValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/ResponseTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/SSLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/SpartanWithXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/allSpartansSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/BookitParametrized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/CsvFileSourceParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/CsvSourceParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/ExcelUtilPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/MethodSourceParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/ParametrizedTestInJunit5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day11/TestLifeCycleAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartanTestsWithPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/HamcrestMatchersApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/HamcrestMatchersIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/JSONtoJAVATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/ORDSHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/SpartanAPIvsDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/SpartanHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day6/ORDSPojoGetRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day6/SpartanPojoGetRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day7/PutAndGetRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day7/SpartanPostRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day8/BookItTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day8/SpartanWithAuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Regions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/HRTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/SpartanAuthTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/SpartanTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SingleSpartanSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Vytracktestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/postalcode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/searchSpartansSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/spartanPostJsonSchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,100 +87,112 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/halilibrahim/IdeaProjects/EU9-RestAssured-Halil/EU9-RestAssured-Halil/src/test/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ORDSApiTestsWithParameters.test2">
-    <configuration name="ORDSApiTestsWithParameters.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/cydeo/Day10" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.Day11" />
+      <recent name="com.cydeo.utilities" />
+      <recent name="com.cydeo.Day10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MethodSourceParameterizedTest.excelParamTest">
+    <configuration name="CsvSourceParametrizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-RestAssured-Halil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.ORDSApiTestsWithParameters" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day11" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day11.CsvSourceParametrizedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtilPractice.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-RestAssured-Halil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.Day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.Day11" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day11.ExcelUtilPractice" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ORDSApiTestsWithParameters.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodSourceParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-RestAssured-Halil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.ORDSApiTestsWithParameters" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day11" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day11.MethodSourceParameterizedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodSourceParameterizedTest.excelParamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-RestAssured-Halil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.Day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.Day11" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day11.MethodSourceParameterizedTest" />
+      <option name="METHOD_NAME" value="excelParamTest(java.util.Map)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestsWithParameters.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLifeCycleAnnotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-RestAssured-Halil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanTestsWithParameters" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanTestsWithParameters.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9-RestAssured-Halil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanTestsWithParameters" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanTestsWithParameters.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9-RestAssured-Halil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanTestsWithParameters" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day11" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day11.TestLifeCycleAnnotations" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ORDSApiTestsWithParameters.test2" />
-        <item itemvalue="JUnit.ORDSApiTestsWithParameters.test1" />
-        <item itemvalue="JUnit.SpartanTestsWithParameters.test4" />
-        <item itemvalue="JUnit.SpartanTestsWithParameters.test3" />
-        <item itemvalue="JUnit.SpartanTestsWithParameters.test2" />
+        <item itemvalue="JUnit.MethodSourceParameterizedTest.excelParamTest" />
+        <item itemvalue="JUnit.ExcelUtilPractice.test1" />
+        <item itemvalue="JUnit.MethodSourceParameterizedTest" />
+        <item itemvalue="JUnit.CsvSourceParametrizedTest" />
+        <item itemvalue="JUnit.TestLifeCycleAnnotations" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +205,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669670707238</updated>
       <workItem from="1669670709605" duration="57000" />
-      <workItem from="1669670776784" duration="21816000" />
+      <workItem from="1669670776784" duration="26330000" />
+      <workItem from="1671619017677" duration="67645000" />
     </task>
     <task id="LOCAL-00001" summary="Day3 update">
       <created>1670583200127</created>
@@ -153,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670583200127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day3 update">
+      <created>1670595548684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670595548684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
